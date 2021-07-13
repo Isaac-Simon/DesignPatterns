@@ -7,6 +7,9 @@ int main()
 	alibaba->Recruit();
 
 	Company *tencent = new Tencent();
+	
+	
+	
 	tencent->Recruit();
 }
 
